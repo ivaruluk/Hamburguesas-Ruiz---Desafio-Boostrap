@@ -1,0 +1,19 @@
+
+
+#banner{
+	position: relative;
+	background-image: url('../assets/burguer-bacon.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 700px;
+	min-height: 80vh;
+}
+
+#banner span{
+	position: absolute;
+	opacity: .8;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
